@@ -2,11 +2,11 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background: black;
+  background: purple;
 }
 
 #canvas1 {
-  border: 3px solid white;
+  border: 3px solid #c8a2c8;
   top: 50%;
   left: 50%;
   position: absolute;
